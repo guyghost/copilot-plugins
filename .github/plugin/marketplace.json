@@ -230,6 +230,33 @@
         "language-server"
       ],
       "license": "See EULA/LICENSE.txt in @microsoft/cpp-language-server NPM package"
+    },
+    {
+      "name": "swarm-dao",
+      "description": "Multi-agent governance layer — 7 DAO agents deliberate proposals, quality gates validate, then execute and track.",
+      "version": "0.3.0",
+      "author": {
+        "name": "guyghost",
+        "url": "https://github.com/guyghost"
+      },
+      "homepage": "https://github.com/guyghost/swarm-dao",
+      "keywords": [
+        "swarm-dao",
+        "copilot",
+        "mcp",
+        "dao",
+        "governance",
+        "multi-agent",
+        "deliberation",
+        "quality-gates"
+      ],
+      "license": "MIT",
+      "repository": "https://github.com/guyghost/swarm-dao",
+      "source": {
+        "source": "github",
+        "repo": "guyghost/swarm-dao",
+        "path": "packages/copilot-adapter"
+      }
     }
   ]
 }
